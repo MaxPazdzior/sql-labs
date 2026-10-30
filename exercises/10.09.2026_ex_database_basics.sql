@@ -1,6 +1,6 @@
 -- ==============================================================================
 
--- Haus-- Aufgaben zu „Arbeiten mit Datenbanken“
+-- Hausaufgaben zu „Arbeiten mit Datenbanken“
 -- Aufgabe1)
 -- Gib alle Vornamen und Nachnamen aus der Tabelle „Person“ aus.
 
