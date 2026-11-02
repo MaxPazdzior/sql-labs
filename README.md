@@ -19,6 +19,5 @@ This repository acts as a structured collection of my relational database course
 sql-labs/
 ├── concepts/        # Theory scripts and query examples
 ├── exercises/       # Homework assignments and practical tasks
-├── .gitignore       # Ignored system and export files
 ├── LICENSE          # MIT License
 └── README.md        # Project documentation
